@@ -1,0 +1,26 @@
+.body {
+    background-color: bisque;
+    font-weight: bolder;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.flag {
+    display: flex;
+    justify-content: center;
+}
+.black {
+    background-color: black;
+    width: 150px;
+    height: 300px;
+}
+.red {
+    background-color: red;
+    width: 150px;
+    height: 300px;
+}
+.yellow {
+    background-color: yellow;
+    width: 150px;
+    height: 300px;
+}
